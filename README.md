@@ -1,3 +1,8 @@
+**We've moved the development:**  
+https://github.com/domoticz/domoticz-android/tree/alpha-development
+
+
+
 # DomoticzForAndroid
 This is a Android for Domoticz and will soon be in the Play Store (not ready yet)
 
